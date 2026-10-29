@@ -116,7 +116,7 @@ Nobody was given Global Administrator. It controls the whole tenant, and the tas
 | Screenshot | Shows |
 | --- | --- |
 | 01-users.png | All users, with department column |
-| 02-groups.png | All nine groups |
+| 02-groups.png |  All ten accounts: nine staff plus the labelled admin account|
 | 03-finance-payroll-members.png | An access group's members |
 | 04-papa-roles.png | Papa: Password Administrator |
 | 05-aiden-roles.png | Aiden: User Administrator |
